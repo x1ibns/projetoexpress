@@ -1,0 +1,22 @@
+{
+  "name": "projetoexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x1ibns/projetoexpress.git"
+  },
+  "author": "Joao Victor Santos da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x1ibns/projetoexpress/issues"
+  },
+  "homepage": "https://github.com/x1ibns/projetoexpress#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
